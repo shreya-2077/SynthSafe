@@ -1,0 +1,14 @@
+metric,value
+original_records,1000.0
+synthetic_records,1000.0
+exact_matches,0.0
+duplicate_synthetic_records,0.0
+minimum_synthetic_to_original_distance,0.027775
+average_synthetic_to_original_distance,0.51318
+median_synthetic_to_original_distance,0.476174
+synthetic_5th_percentile_distance,0.1947
+synthetic_25th_percentile_distance,0.350634
+median_real_to_nearest_real_distance,0.434338
+real_5th_percentile_distance,0.22702
+very_close_synthetic_records,70.0
+very_close_synthetic_percentage,7.0

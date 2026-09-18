@@ -1,0 +1,13 @@
+metric,value
+Utility Score,98.09
+Distribution Similarity,98.94
+Correlation Similarity,97.24
+Average Distribution Error,0.0107
+Average Correlation Difference,0.0276
+Exact Matches,0.0
+Duplicate Synthetic Records,0.0
+Minimum Synthetic-to-Original Distance,0.027775
+Median Synthetic-to-Original Distance,0.476174
+Average Synthetic-to-Original Distance,0.51318
+Very-Close Synthetic Records,70.0
+Very-Close Synthetic Percentage,7.0

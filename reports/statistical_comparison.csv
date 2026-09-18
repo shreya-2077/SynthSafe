@@ -1,0 +1,6 @@
+column,original_mean,synthetic_mean,mean_difference,original_std,synthetic_std,std_difference,wasserstein_distance
+age,40.99,40.43,0.55,13.5,13.55,0.05,0.55
+experience,18.12,17.82,0.3,13.29,13.31,0.02,0.36
+salary,163306.88,161146.19,2160.69,93619.09,93213.22,405.87,2595.18
+monthly_spending,69555.4,68119.74,1435.66,44266.94,43577.02,689.92,1563.64
+credit_score,640.51,636.31,4.21,75.0,75.86,0.87,4.23
