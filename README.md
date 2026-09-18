@@ -125,4 +125,6 @@ The Streamlit dashboard provides:
                 ┌─────────────────┐
                 │Streamlit         │
                 │Dashboard         │
-                └─────────────────┘
+                └─────────────────┘## 📸 Dashboard
+
+![SynthSafe Dashboard](synthsafe_dashboard.png)
